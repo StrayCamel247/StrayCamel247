@@ -1,6 +1,6 @@
 - 🐒email：aboyinsky@outlook.com
 - 🐾site: https://straycamel247.github.io/
-- Bilibili: [娃哈哈店长](https://space.bilibili.com/259800790/dynamic)
+- 🤖Bilibili: [娃哈哈店长](https://space.bilibili.com/259800790/dynamic)
 > Stay young, Stay hungry
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StrayCamel247&layout=compact&count_private=true&hide_title=true&include_all_commits=true)
